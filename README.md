@@ -1,4 +1,3 @@
-Khusan, [10/21/2023 9:40 PM]
 # Husan Bahodirov
 
 Fronted Developer, Student of WIUT.
@@ -32,7 +31,6 @@ Fronted Developer, Student of WIUT.
 
 ## Pages
 
-Khusan, [10/21/2023 9:40 PM]
 <p align="left">
 <a href="https://linkedin.com/in/husan-bahodirov-908401245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Husan-Bahodirov" height="30" width="40" /></a>
 <a href="https://fb.com/muhammadjavohir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HusanBahodirov" height="30" width="40" /></a>
