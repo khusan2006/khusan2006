@@ -1,6 +1,6 @@
 # Husan Bahodirov
 
-Fronted Developer, Student of WIUT.
+Fronted React Developer, Student of WIUT.
 
 [💼 Portfolio](https://frontendtester.uz) | [💬 Telegram](https://t.me/Husanbahodirov) | 📧 bahodirovkhusan@gmail.com
 
