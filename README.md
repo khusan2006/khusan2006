@@ -24,7 +24,7 @@ Fronted React Developer, Student of WIUT.
 | Preview | Description |
 |---|---|
 | <img src="https://raw.githubusercontent.com/khusan2006/Omnifood/main/img/preview.jpg" alt="Ecommerce product page preview" width="250"/><br>[Source of code](https://github.com/khusan2006/Omnifood) | Omnifood project <br>The hero section of the Omnifood project <br><br> <a href="https://github.com/khusan2006/Omnifood">🧾 Repo</a> - <a href="https://husan-omnifood.netlify.app" target="_blank">🌐 Netlify</a> - ⌚️ 6 hour 30 minutes<br><br> unique aspects of the project: Responsive design cool animations, use of flex and grid |
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Source of code](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | Bankist application <br>Preview images of the Bankist application<br><br> <a href="https://github.com/frontendtester/easybank">🧾 Repo</a> - <a href="https://mjb-easybank.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚️ 2 hours<br><br> unique aspects of the project: Hero qismidagi rasmlar joylashuvi |
+| 
 
 <a href="https://frontendtester.uz" target="_blank">💼 All projects</a>
 
