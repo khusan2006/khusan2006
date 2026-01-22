@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khusan2006" alt="khusan2006" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **System Desifns**
 
-- 👨‍💻 All of my projects are available at [https://khusan-portfolio-website.netlify.app](https://khusan-portfolio-website.netlify.app)
+- 👨‍💻 All of my projects are available at this github.
 
 - 💬 Ask me about **JavaScript, TypeScript, React**
 
